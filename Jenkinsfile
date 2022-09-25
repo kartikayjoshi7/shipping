@@ -5,4 +5,6 @@ env.COMPONENT = "shipping"
 env.BUILD_LABEL = "WORKSTATION"
 
 //library
-java()
+//java()
+
+immutable_java()
